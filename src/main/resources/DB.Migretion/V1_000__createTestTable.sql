@@ -1,0 +1,6 @@
+CREATE TABLE Test (
+    id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    surname VARCHAR(100) NOT NULL,
+    password VARCHAR(100) NOT NULL
+);
